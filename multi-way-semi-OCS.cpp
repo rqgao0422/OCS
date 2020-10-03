@@ -1,3 +1,12 @@
+/*
+input: 
+	n, number of elements in each tuple
+output:
+	gmin, minimum Gamma that appears in a feasible solution of the stricter LP
+	gmax, maximum Gamma that appears in a feasible solution of the stricter LP
+latex link:
+	https://www.overleaf.com/3486144463wrhdwyywfqhy
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
